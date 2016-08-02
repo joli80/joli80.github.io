@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/johanl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.twigg.se
+  * I am johanl (https://keybase.io/johanl) on keybase.
+  * I have a public key with fingerprint 25A7 D648 1569 4C4E 5D32  E462 6074 2F9F 5E8C BC41
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01018b9f6a8c64f56eb1c7041e5453b702b714ab37ef15ddcdcc3ab9d93d6c5af1510a",
+            "fingerprint": "25a7d64815694c4e5d32e46260742f9f5e8cbc41",
+            "host": "keybase.io",
+            "key_id": "60742f9f5e8cbc41",
+            "kid": "01018b9f6a8c64f56eb1c7041e5453b702b714ab37ef15ddcdcc3ab9d93d6c5af1510a",
+            "uid": "263304ad0f884067282c1326738b1519",
+            "username": "johanl"
+        },
+        "service": {
+            "hostname": "www.twigg.se",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470155049,
+    "expire_in": 157680000,
+    "prev": "0e82a32a3e3a4c9ae76f89ff17d0bba2302dceba10c3353cb724e6a2f671fab2",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIqAnicrVJbSBVBGF7Loo4WgiFaQrQVdjnZXmZ3dk/Q1TLMMp8Uy04zs7PH9bJ7
+PGc9atH1SaPoSoX1oC9BakQXeyihspBCqgct0bDCFCKDgkwhNZqVeuuxYWD4///7
+vvn+n//pvJmcL6599IWvroHriut6fKGKK2h8vvIgjx2jlg8c5Mvo9EPLDRp1g2WW
+wQd4QRREDeumijSiAlNRKRYJFIBIFaDIGAoShiJAWIbUFBXDIAYhMsK6ocuGShTE
+kqKAeD9vWnaIRsIRy3aZrKQgaKhAExVVBwRQxZAlClRJFSCQTN1UqEYwASIjljhR
+j8HMYRSlmZbDciwITtv7B/4/+66alpNUWRYAMgRT04CgQkmTiChLKpQ1zJC6B4zS
+iI0qKEOXOiXILucP+XmWi1mEemP1+vhTr66uznSrrVAoM0oZMxxxXIc45axS4rrh
+gEd0a8PTSIqDfzSC2LINNkRGiNFI1HJsPiAyJHEtT1QEUBAVRQC6n6c1YStCg5aH
+UKCqCex439CYNxmqSUhml8oIEB1RqJqabpoiNASMkSQLkkEoRqJAZFmRCYYSoCqS
+TBWKJsIS73VVaTt8QGE2UYhJRq2QjdyqCOUPdTzaG8/F+bjZs2Z4y8X55ib9XTlS
+MYdrjw00bL2w+DyEl/NO5cW6O66c0yonXg/PuFt/nb78Hn5++8f7xJHTha/eLf1w
+yS6qyr/66vj4VEbPtsk9pdeWrS86uqZ1/v38gqUbFnW2lA+3zp6Y2pmw5HZy/ZKU
+5rbIxca0VZsK0+HXWWW/uMrWT4s/ZyRv7LyROpRFK7sGU5IDwYe7sjL8I0GUA/Nu
+dZ9o2JKW9qYue3Oy0nekHWSuT+1PzeF7x5evOHmmrrktaSh7e39vi2/hfH/64Z6f
+N7ftG5sqk9blZi/gHjx78SW3v1i9IxSkLVvb1NTYPbo7+2Qdt/zA7mNjxrV19xJX
+fzy7a6AofjDhLb1V07HDLZ7c/ySh4Fvfb04JO7Y=
+=A1Sp
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/johanl
+
+==================================================================
